@@ -1,2 +1,2 @@
 # V-nusShop
-Projeto - Ecommerc
+Projeto - MarketPlace
